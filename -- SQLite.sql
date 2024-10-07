@@ -1,0 +1,8 @@
+-- SQLite
+CREATE TABLE login (
+
+Прізвище TEXT NOT NULL,
+Логін TEXT NOT NULL PRIMARY KEY,
+Пароль INTEGER NOT NULL
+
+);
